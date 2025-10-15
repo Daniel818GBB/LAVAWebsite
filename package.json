@@ -1,0 +1,25 @@
+{
+  "name": "lava-chat-companion",
+  "version": "1.0.0",
+  "description": "LAVA Chat Companion - Test website for Dynamics 365 LAVA capabilities",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Static website - no build required'",
+    "build": "echo 'Static website - no build required'"
+  },
+  "keywords": [
+    "azure",
+    "static-web-app",
+    "chat",
+    "bot",
+    "dynamics365",
+    "lava"
+  ],
+  "author": "Microsoft",
+  "license": "MIT",
+  "homepage": ".",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/LAVAWebsite.git"
+  }
+}
